@@ -12942,7 +12942,7 @@ const Gh = [
 		{
 			name: "MetaMask",
 			id: "metamask",
-			logo: "metamask.jpg",
+			logo: "metamask.png",
 		},
 	],
 	xu = ({ wallet: N, onClose: C }) =>
